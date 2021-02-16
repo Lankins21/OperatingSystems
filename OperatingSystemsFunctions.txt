@@ -1,1 +1,2 @@
 Managing programs is one function of an operating system. This allows the user to multi-task and use more than one program at a time. This is a very important function because you want your operating system to be able to manage as many programs as needed.
+Managing memory is another function of an operating system. Each program gets a certain amount of memory. The operating system will start storing copies of the pages into files in the hard disk if the memory becomes full. 
