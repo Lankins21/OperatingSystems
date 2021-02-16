@@ -1,0 +1,1 @@
+Managing programs is one function of an operating system. This allows the user to multi-task and use more than one program at a time. This is a very important function because you want your operating system to be able to manage as many programs as needed.
